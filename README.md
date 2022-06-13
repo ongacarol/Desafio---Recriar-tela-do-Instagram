@@ -5,6 +5,6 @@
 O objetivo era recriar a interface de login do Instagram com CSS e HTML.
 
 
-![print da tela](https://github.com/ongacarol/Desafio---Recriar-tela-do-Instagram/blob/main/tela%20final.png?raw=true)
+![print da tela]
 
 
